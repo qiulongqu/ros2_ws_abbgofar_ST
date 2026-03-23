@@ -1,0 +1,17 @@
+/home/yunhao/ros2_ws_abbgofar/install/abb_resources/share/abb_resources/urdf/common_materials.xacro
+/home/yunhao/ros2_ws_abbgofar/install/abb_resources/share/abb_resources/urdf/common_colours.xacro
+/home/yunhao/ros2_ws_abbgofar/install/abb_resources/share/ament_index/resource_index/package_run_dependencies/abb_resources
+/home/yunhao/ros2_ws_abbgofar/install/abb_resources/share/ament_index/resource_index/parent_prefix_path/abb_resources
+/home/yunhao/ros2_ws_abbgofar/install/abb_resources/share/abb_resources/environment/ament_prefix_path.sh
+/home/yunhao/ros2_ws_abbgofar/install/abb_resources/share/abb_resources/environment/ament_prefix_path.dsv
+/home/yunhao/ros2_ws_abbgofar/install/abb_resources/share/abb_resources/environment/path.sh
+/home/yunhao/ros2_ws_abbgofar/install/abb_resources/share/abb_resources/environment/path.dsv
+/home/yunhao/ros2_ws_abbgofar/install/abb_resources/share/abb_resources/local_setup.bash
+/home/yunhao/ros2_ws_abbgofar/install/abb_resources/share/abb_resources/local_setup.sh
+/home/yunhao/ros2_ws_abbgofar/install/abb_resources/share/abb_resources/local_setup.zsh
+/home/yunhao/ros2_ws_abbgofar/install/abb_resources/share/abb_resources/local_setup.dsv
+/home/yunhao/ros2_ws_abbgofar/install/abb_resources/share/abb_resources/package.dsv
+/home/yunhao/ros2_ws_abbgofar/install/abb_resources/share/ament_index/resource_index/packages/abb_resources
+/home/yunhao/ros2_ws_abbgofar/install/abb_resources/share/abb_resources/cmake/abb_resourcesConfig.cmake
+/home/yunhao/ros2_ws_abbgofar/install/abb_resources/share/abb_resources/cmake/abb_resourcesConfig-version.cmake
+/home/yunhao/ros2_ws_abbgofar/install/abb_resources/share/abb_resources/package.xml

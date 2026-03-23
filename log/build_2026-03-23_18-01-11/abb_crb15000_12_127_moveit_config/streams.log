@@ -1,0 +1,52 @@
+[0.091s] Invoking command in '/home/yunhao/ros2_ws_abbgofar/build/abb_crb15000_12_127_moveit_config': AMENT_PREFIX_PATH=/home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_support:/home/yunhao/ros2_ws_abbgofar/install/abb_resources:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_support:/home/yunhao/ros2_ws_abbgofar/install/abb_resources:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/yunhao/ros2_ws_abbgofar/src/abb_crb15000_12_127_moveit_config -DCMAKE_INSTALL_PREFIX=/home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_12_127_moveit_config
+[0.313s] -- The C compiler identification is GNU 13.3.0
+[0.874s] -- The CXX compiler identification is GNU 13.3.0
+[1.331s] -- Detecting C compiler ABI info
+[1.555s] -- Detecting C compiler ABI info - done
+[1.561s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.562s] -- Detecting C compile features
+[1.562s] -- Detecting C compile features - done
+[1.636s] -- Detecting CXX compiler ABI info
+[1.868s] -- Detecting CXX compiler ABI info - done
+[1.874s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.875s] -- Detecting CXX compile features
+[1.875s] -- Detecting CXX compile features - done
+[1.879s] -- Found ament_cmake: 2.5.5 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[2.014s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[2.204s] -- Configuring done (2.1s)
+[2.211s] -- Generating done (0.0s)
+[2.214s] -- Build files have been written to: /home/yunhao/ros2_ws_abbgofar/build/abb_crb15000_12_127_moveit_config
+[2.220s] Invoked command in '/home/yunhao/ros2_ws_abbgofar/build/abb_crb15000_12_127_moveit_config' returned '0': AMENT_PREFIX_PATH=/home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_support:/home/yunhao/ros2_ws_abbgofar/install/abb_resources:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_support:/home/yunhao/ros2_ws_abbgofar/install/abb_resources:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/yunhao/ros2_ws_abbgofar/src/abb_crb15000_12_127_moveit_config -DCMAKE_INSTALL_PREFIX=/home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_12_127_moveit_config
+[2.221s] Invoking command in '/home/yunhao/ros2_ws_abbgofar/build/abb_crb15000_12_127_moveit_config': AMENT_PREFIX_PATH=/home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_support:/home/yunhao/ros2_ws_abbgofar/install/abb_resources:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_support:/home/yunhao/ros2_ws_abbgofar/install/abb_resources:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/yunhao/ros2_ws_abbgofar/build/abb_crb15000_12_127_moveit_config -- -j32 -l32
+[2.262s] Invoked command in '/home/yunhao/ros2_ws_abbgofar/build/abb_crb15000_12_127_moveit_config' returned '0': AMENT_PREFIX_PATH=/home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_support:/home/yunhao/ros2_ws_abbgofar/install/abb_resources:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_support:/home/yunhao/ros2_ws_abbgofar/install/abb_resources:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/yunhao/ros2_ws_abbgofar/build/abb_crb15000_12_127_moveit_config -- -j32 -l32
+[2.273s] Invoking command in '/home/yunhao/ros2_ws_abbgofar/build/abb_crb15000_12_127_moveit_config': AMENT_PREFIX_PATH=/home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_support:/home/yunhao/ros2_ws_abbgofar/install/abb_resources:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_support:/home/yunhao/ros2_ws_abbgofar/install/abb_resources:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/yunhao/ros2_ws_abbgofar/build/abb_crb15000_12_127_moveit_config
+[2.281s] -- Install configuration: ""
+[2.281s] -- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_12_127_moveit_config/share/abb_crb15000_12_127_moveit_config/config
+[2.282s] -- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_12_127_moveit_config/share/abb_crb15000_12_127_moveit_config/config/crb15000_12_127.srdf
+[2.283s] -- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_12_127_moveit_config/share/abb_crb15000_12_127_moveit_config/config/kinematics.yaml
+[2.283s] -- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_12_127_moveit_config/share/abb_crb15000_12_127_moveit_config/config/initial_positions.yaml
+[2.283s] -- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_12_127_moveit_config/share/abb_crb15000_12_127_moveit_config/config/ompl_planning.yaml
+[2.283s] -- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_12_127_moveit_config/share/abb_crb15000_12_127_moveit_config/config/joint_limits.yaml
+[2.283s] -- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_12_127_moveit_config/share/abb_crb15000_12_127_moveit_config/config/ros2_controllers.yaml
+[2.283s] -- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_12_127_moveit_config/share/abb_crb15000_12_127_moveit_config/config/moveit_controllers.yaml
+[2.284s] -- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_12_127_moveit_config/share/abb_crb15000_12_127_moveit_config/config/crb15000_12_127.urdf.xacro
+[2.284s] -- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_12_127_moveit_config/share/abb_crb15000_12_127_moveit_config/launch
+[2.284s] -- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_12_127_moveit_config/share/abb_crb15000_12_127_moveit_config/launch/demo.launch.py
+[2.285s] -- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_12_127_moveit_config/share/abb_crb15000_12_127_moveit_config/launch/__pycache__
+[2.285s] -- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_12_127_moveit_config/share/abb_crb15000_12_127_moveit_config/launch/__pycache__/demo.launch.cpython-312.pyc
+[2.287s] -- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_12_127_moveit_config/share/ament_index/resource_index/package_run_dependencies/abb_crb15000_12_127_moveit_config
+[2.288s] -- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_12_127_moveit_config/share/ament_index/resource_index/parent_prefix_path/abb_crb15000_12_127_moveit_config
+[2.288s] -- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_12_127_moveit_config/share/abb_crb15000_12_127_moveit_config/environment/ament_prefix_path.sh
+[2.288s] -- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_12_127_moveit_config/share/abb_crb15000_12_127_moveit_config/environment/ament_prefix_path.dsv
+[2.289s] -- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_12_127_moveit_config/share/abb_crb15000_12_127_moveit_config/environment/path.sh
+[2.289s] -- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_12_127_moveit_config/share/abb_crb15000_12_127_moveit_config/environment/path.dsv
+[2.289s] -- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_12_127_moveit_config/share/abb_crb15000_12_127_moveit_config/local_setup.bash
+[2.289s] -- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_12_127_moveit_config/share/abb_crb15000_12_127_moveit_config/local_setup.sh
+[2.289s] -- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_12_127_moveit_config/share/abb_crb15000_12_127_moveit_config/local_setup.zsh
+[2.290s] -- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_12_127_moveit_config/share/abb_crb15000_12_127_moveit_config/local_setup.dsv
+[2.290s] -- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_12_127_moveit_config/share/abb_crb15000_12_127_moveit_config/package.dsv
+[2.290s] -- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_12_127_moveit_config/share/ament_index/resource_index/packages/abb_crb15000_12_127_moveit_config
+[2.291s] -- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_12_127_moveit_config/share/abb_crb15000_12_127_moveit_config/cmake/abb_crb15000_12_127_moveit_configConfig.cmake
+[2.291s] -- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_12_127_moveit_config/share/abb_crb15000_12_127_moveit_config/cmake/abb_crb15000_12_127_moveit_configConfig-version.cmake
+[2.291s] -- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_12_127_moveit_config/share/abb_crb15000_12_127_moveit_config/package.xml
+[2.294s] Invoked command in '/home/yunhao/ros2_ws_abbgofar/build/abb_crb15000_12_127_moveit_config' returned '0': AMENT_PREFIX_PATH=/home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_support:/home/yunhao/ros2_ws_abbgofar/install/abb_resources:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_support:/home/yunhao/ros2_ws_abbgofar/install/abb_resources:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/yunhao/ros2_ws_abbgofar/build/abb_crb15000_12_127_moveit_config

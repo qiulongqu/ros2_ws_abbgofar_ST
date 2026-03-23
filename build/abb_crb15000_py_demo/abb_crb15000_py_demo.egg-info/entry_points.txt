@@ -1,0 +1,2 @@
+[console_scripts]
+joint_motion_demo = abb_crb15000_py_demo.joint_motion_demo:main

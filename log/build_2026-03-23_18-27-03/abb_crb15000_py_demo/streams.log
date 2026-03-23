@@ -1,0 +1,37 @@
+[0.799s] Invoking command in '/home/yunhao/ros2_ws_abbgofar/src/abb_crb15000_py_demo': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/yunhao/ros2_ws_abbgofar/build/abb_crb15000_py_demo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_py_demo/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/abb_crb15000_py_demo build --build-base /home/yunhao/ros2_ws_abbgofar/build/abb_crb15000_py_demo/build install --record /home/yunhao/ros2_ws_abbgofar/build/abb_crb15000_py_demo/install.log --single-version-externally-managed install_data
+[0.948s] running egg_info
+[0.948s] creating ../../build/abb_crb15000_py_demo/abb_crb15000_py_demo.egg-info
+[0.958s] writing ../../build/abb_crb15000_py_demo/abb_crb15000_py_demo.egg-info/PKG-INFO
+[0.958s] writing dependency_links to ../../build/abb_crb15000_py_demo/abb_crb15000_py_demo.egg-info/dependency_links.txt
+[0.958s] writing entry points to ../../build/abb_crb15000_py_demo/abb_crb15000_py_demo.egg-info/entry_points.txt
+[0.958s] writing requirements to ../../build/abb_crb15000_py_demo/abb_crb15000_py_demo.egg-info/requires.txt
+[0.959s] writing top-level names to ../../build/abb_crb15000_py_demo/abb_crb15000_py_demo.egg-info/top_level.txt
+[0.959s] writing manifest file '../../build/abb_crb15000_py_demo/abb_crb15000_py_demo.egg-info/SOURCES.txt'
+[0.979s] reading manifest file '../../build/abb_crb15000_py_demo/abb_crb15000_py_demo.egg-info/SOURCES.txt'
+[0.979s] writing manifest file '../../build/abb_crb15000_py_demo/abb_crb15000_py_demo.egg-info/SOURCES.txt'
+[0.980s] running build
+[0.980s] running build_py
+[0.980s] creating /home/yunhao/ros2_ws_abbgofar/build/abb_crb15000_py_demo/build
+[0.980s] creating /home/yunhao/ros2_ws_abbgofar/build/abb_crb15000_py_demo/build/lib
+[0.981s] creating /home/yunhao/ros2_ws_abbgofar/build/abb_crb15000_py_demo/build/lib/abb_crb15000_py_demo
+[0.981s] copying abb_crb15000_py_demo/__init__.py -> /home/yunhao/ros2_ws_abbgofar/build/abb_crb15000_py_demo/build/lib/abb_crb15000_py_demo
+[0.981s] copying abb_crb15000_py_demo/joint_motion_demo.py -> /home/yunhao/ros2_ws_abbgofar/build/abb_crb15000_py_demo/build/lib/abb_crb15000_py_demo
+[0.982s] running install
+[0.985s] running install_lib
+[0.995s] creating /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_py_demo/lib/python3.12/site-packages/abb_crb15000_py_demo
+[0.996s] copying /home/yunhao/ros2_ws_abbgofar/build/abb_crb15000_py_demo/build/lib/abb_crb15000_py_demo/__init__.py -> /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_py_demo/lib/python3.12/site-packages/abb_crb15000_py_demo
+[0.996s] copying /home/yunhao/ros2_ws_abbgofar/build/abb_crb15000_py_demo/build/lib/abb_crb15000_py_demo/joint_motion_demo.py -> /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_py_demo/lib/python3.12/site-packages/abb_crb15000_py_demo
+[0.997s] byte-compiling /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_py_demo/lib/python3.12/site-packages/abb_crb15000_py_demo/__init__.py to __init__.cpython-312.pyc
+[0.997s] byte-compiling /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_py_demo/lib/python3.12/site-packages/abb_crb15000_py_demo/joint_motion_demo.py to joint_motion_demo.cpython-312.pyc
+[0.998s] running install_data
+[0.998s] creating /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_py_demo/share/ament_index
+[0.998s] creating /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_py_demo/share/ament_index/resource_index
+[0.999s] creating /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_py_demo/share/ament_index/resource_index/packages
+[0.999s] copying resource/abb_crb15000_py_demo -> /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_py_demo/share/ament_index/resource_index/packages
+[0.999s] copying package.xml -> /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_py_demo/share/abb_crb15000_py_demo
+[0.999s] running install_egg_info
+[1.010s] Copying ../../build/abb_crb15000_py_demo/abb_crb15000_py_demo.egg-info to /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_py_demo/lib/python3.12/site-packages/abb_crb15000_py_demo-0.1.0-py3.12.egg-info
+[1.011s] running install_scripts
+[1.089s] Installing joint_motion_demo script to /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_py_demo/lib/abb_crb15000_py_demo
+[1.089s] writing list of installed files to '/home/yunhao/ros2_ws_abbgofar/build/abb_crb15000_py_demo/install.log'
+[1.107s] Invoked command in '/home/yunhao/ros2_ws_abbgofar/src/abb_crb15000_py_demo' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/yunhao/ros2_ws_abbgofar/build/abb_crb15000_py_demo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_py_demo/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/abb_crb15000_py_demo build --build-base /home/yunhao/ros2_ws_abbgofar/build/abb_crb15000_py_demo/build install --record /home/yunhao/ros2_ws_abbgofar/build/abb_crb15000_py_demo/install.log --single-version-externally-managed install_data

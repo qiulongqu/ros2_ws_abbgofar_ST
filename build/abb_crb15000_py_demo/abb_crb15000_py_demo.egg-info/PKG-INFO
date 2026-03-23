@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: abb-crb15000-py-demo
+Version: 0.1.0
+Summary: Minimal Python demos for ABB CRB15000 trajectory execution.
+Maintainer: Robot Engineer
+Maintainer-email: robot@todo.com
+License: Apache-2.0

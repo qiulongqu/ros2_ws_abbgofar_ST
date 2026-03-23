@@ -1,0 +1,10 @@
+moveit_setup_assistant_config:
+  urdf:
+    package: abb_crb15000_support
+    relative_path: urdf/crb15000_12_127.urdf
+  srdf:
+    relative_path: config/abb_crb15000_12_127.srdf
+  package_settings:
+    author_name: qiulongqu
+    author_email: qiulongqu@gmail.com
+    generated_timestamp: 1774258401

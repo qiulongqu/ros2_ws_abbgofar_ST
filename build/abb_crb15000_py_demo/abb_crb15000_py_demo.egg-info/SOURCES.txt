@@ -1,0 +1,13 @@
+package.xml
+setup.cfg
+setup.py
+../../build/abb_crb15000_py_demo/abb_crb15000_py_demo.egg-info/PKG-INFO
+../../build/abb_crb15000_py_demo/abb_crb15000_py_demo.egg-info/SOURCES.txt
+../../build/abb_crb15000_py_demo/abb_crb15000_py_demo.egg-info/dependency_links.txt
+../../build/abb_crb15000_py_demo/abb_crb15000_py_demo.egg-info/entry_points.txt
+../../build/abb_crb15000_py_demo/abb_crb15000_py_demo.egg-info/requires.txt
+../../build/abb_crb15000_py_demo/abb_crb15000_py_demo.egg-info/top_level.txt
+../../build/abb_crb15000_py_demo/abb_crb15000_py_demo.egg-info/zip-safe
+abb_crb15000_py_demo/__init__.py
+abb_crb15000_py_demo/joint_motion_demo.py
+resource/abb_crb15000_py_demo

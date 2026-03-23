@@ -1,0 +1,67 @@
+-- The C compiler identification is GNU 13.3.0
+-- The CXX compiler identification is GNU 13.3.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 2.5.5 (/opt/ros/jazzy/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+-- Configuring done (2.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/yunhao/ros2_ws_abbgofar/build/abb_crb15000_support
+-- Install configuration: ""
+-- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_support/share/abb_crb15000_support/meshes
+-- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_support/share/abb_crb15000_support/meshes/crb15000_12_127
+-- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_support/share/abb_crb15000_support/meshes/crb15000_12_127/visual
+-- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_support/share/abb_crb15000_support/meshes/crb15000_12_127/visual/link_1.stl
+-- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_support/share/abb_crb15000_support/meshes/crb15000_12_127/visual/link_4.stl
+-- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_support/share/abb_crb15000_support/meshes/crb15000_12_127/visual/base_link.stl
+-- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_support/share/abb_crb15000_support/meshes/crb15000_12_127/visual/link_2.stl
+-- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_support/share/abb_crb15000_support/meshes/crb15000_12_127/collision
+-- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_support/share/abb_crb15000_support/meshes/crb15000_12_127/collision/link_1.stl
+-- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_support/share/abb_crb15000_support/meshes/crb15000_12_127/collision/link_4.stl
+-- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_support/share/abb_crb15000_support/meshes/crb15000_12_127/collision/base_link.stl
+-- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_support/share/abb_crb15000_support/meshes/crb15000_12_127/collision/link_2.stl
+-- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_support/share/abb_crb15000_support/meshes/crb15000_5_95
+-- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_support/share/abb_crb15000_support/meshes/crb15000_5_95/visual
+-- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_support/share/abb_crb15000_support/meshes/crb15000_5_95/visual/link_1.stl
+-- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_support/share/abb_crb15000_support/meshes/crb15000_5_95/visual/link_4.stl
+-- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_support/share/abb_crb15000_support/meshes/crb15000_5_95/visual/link_3.stl
+-- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_support/share/abb_crb15000_support/meshes/crb15000_5_95/visual/link_6.stl
+-- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_support/share/abb_crb15000_support/meshes/crb15000_5_95/visual/base_link.stl
+-- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_support/share/abb_crb15000_support/meshes/crb15000_5_95/visual/link_2.stl
+-- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_support/share/abb_crb15000_support/meshes/crb15000_5_95/visual/link_5.stl
+-- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_support/share/abb_crb15000_support/meshes/crb15000_5_95/collision
+-- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_support/share/abb_crb15000_support/meshes/crb15000_5_95/collision/link_1.stl
+-- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_support/share/abb_crb15000_support/meshes/crb15000_5_95/collision/link_4.stl
+-- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_support/share/abb_crb15000_support/meshes/crb15000_5_95/collision/link_3.stl
+-- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_support/share/abb_crb15000_support/meshes/crb15000_5_95/collision/link_6.stl
+-- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_support/share/abb_crb15000_support/meshes/crb15000_5_95/collision/base_link.stl
+-- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_support/share/abb_crb15000_support/meshes/crb15000_5_95/collision/link_2.stl
+-- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_support/share/abb_crb15000_support/meshes/crb15000_5_95/collision/link_5.stl
+-- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_support/share/abb_crb15000_support/urdf
+-- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_support/share/abb_crb15000_support/urdf/crb15000_5_95.xacro
+-- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_support/share/abb_crb15000_support/urdf/crb15000_12_127_macro.xacro
+-- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_support/share/abb_crb15000_support/urdf/crb15000_5_95_macro.xacro
+-- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_support/share/abb_crb15000_support/urdf/crb15000_12_127.xacro
+-- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_support/share/ament_index/resource_index/package_run_dependencies/abb_crb15000_support
+-- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_support/share/ament_index/resource_index/parent_prefix_path/abb_crb15000_support
+-- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_support/share/abb_crb15000_support/environment/ament_prefix_path.sh
+-- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_support/share/abb_crb15000_support/environment/ament_prefix_path.dsv
+-- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_support/share/abb_crb15000_support/environment/path.sh
+-- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_support/share/abb_crb15000_support/environment/path.dsv
+-- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_support/share/abb_crb15000_support/local_setup.bash
+-- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_support/share/abb_crb15000_support/local_setup.sh
+-- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_support/share/abb_crb15000_support/local_setup.zsh
+-- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_support/share/abb_crb15000_support/local_setup.dsv
+-- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_support/share/abb_crb15000_support/package.dsv
+-- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_support/share/ament_index/resource_index/packages/abb_crb15000_support
+-- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_support/share/abb_crb15000_support/cmake/abb_crb15000_supportConfig.cmake
+-- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_support/share/abb_crb15000_support/cmake/abb_crb15000_supportConfig-version.cmake
+-- Installing: /home/yunhao/ros2_ws_abbgofar/install/abb_crb15000_support/share/abb_crb15000_support/package.xml
