@@ -85,3 +85,11 @@ sudo apt install ros-jazzy-ros2-controllers
 ## License
 
 Based on ros-industrial/abb. See parent project for license details.
+<<<<<<< HEAD
+=======
+
+## 中文部分
+
+中文readme详见explain文件夹。
+
+>>>>>>> 463e3667b424841fa58e788057c699659c6d87f5
